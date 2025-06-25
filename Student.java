@@ -1,5 +1,8 @@
 class Student {
+  private String name;
+
   public Student() {
-    //add constructor
+    this.name = "pavarit";
   }
+
 }
